@@ -1,0 +1,27 @@
+[
+	{
+	  "School": "Boston Uniersity",
+	  "Program": "Software Development",
+	  "Type": "MS",
+	  "Year conferred":"12-15-2019"
+	},
+	{
+	  "School": "Southern University",
+	  "Program": "Business Administration",
+	  "Type": "MBA",
+	  "Year conferred":"03-05-2012"
+	},
+	{
+	  "School": "Southern Uniersity",
+	  "Program": "Social Science in Economics",
+	  "Type": "MS",
+	  "Year conferred":"05-05-2011"
+	},
+
+	{
+	  "School": "Southern University",
+	  "Program": "Social Science in Economics",
+	  "Type": "BSS",
+	  "Year conferred":"05-06-2010"
+	}
+]
